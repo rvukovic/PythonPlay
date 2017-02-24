@@ -10,7 +10,7 @@ def reverse_sentace_native(str):
     arr.reverse()
     return "".join(arr)
 
-TST = "Some stentacne for reversing!"
+TST = "Some sentace for reversing!"
 
 print("Original sentance   - ", TST)
 print("Reversed sentance   - ",reverse_sentace(TST))

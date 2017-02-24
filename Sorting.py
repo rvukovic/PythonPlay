@@ -12,6 +12,6 @@ def bub_sort(arr):
 ARR = [9, 1, 7, 0, 3, 5, 4, 6, 8, 2]
 
 print("bub_sort - ", bub_sort(ARR))
-print("Original - ", ARR) 
+print("Original - ", ARR)
 ARR.sort()
 print("sort     - ", ARR)
